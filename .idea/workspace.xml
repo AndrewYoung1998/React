@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12426397-edc1-4194-b375-4b3bd332b552" name="Default Changelist" comment="Updated index.js">
-      <change afterPath="$PROJECT_DIR$/reactBasics-master/src/Greeting.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactBasics-master/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactBasics-master/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactBasics-master/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactBasics-master/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactBasics-master/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactBasics-master/src/setupTests.js" beforeDir="false" />
+    <list default="true" id="12426397-edc1-4194-b375-4b3bd332b552" name="Default Changelist" comment="React Basics">
+      <change beforePath="$PROJECT_DIR$/reactBasics-master/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reactBasics-master/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608585268189</updated>
-      <workItem from="1608585270257" duration="4270000" />
+      <workItem from="1608585270257" duration="4358000" />
     </task>
     <task id="LOCAL-00001" summary="React Projects">
       <created>1608585441756</created>
@@ -98,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608588923441</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="React Basics">
+      <created>1608589735106</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608589735106</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +112,7 @@
     <MESSAGE value="Updated movieData.js" />
     <MESSAGE value="Covid Project" />
     <MESSAGE value="Updated index.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated index.js" />
+    <MESSAGE value="React Basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="React Basics" />
   </component>
 </project>
