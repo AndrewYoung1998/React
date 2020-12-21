@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12426397-edc1-4194-b375-4b3bd332b552" name="Default Changelist" comment="React Basics">
-      <change beforePath="$PROJECT_DIR$/reactBasics-master/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reactBasics-master/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotifyAPI-master/src/Player.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spotifyAPI-master/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/spotifyAPI-master/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spotifyAPI-master/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/spotifyAPI-master/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spotifyAPI-master/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/spotifyAPI-master/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608585268189</updated>
-      <workItem from="1608585270257" duration="4358000" />
+      <workItem from="1608585270257" duration="4789000" />
     </task>
     <task id="LOCAL-00001" summary="React Projects">
       <created>1608585441756</created>
@@ -98,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608589735106</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="React Basics">
+      <created>1608589803676</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608589803676</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
