@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import Movie_Data from "./Movie_Date";
+import MovieData from "./movieData";
 import './MovieStyle.css';
 const Movie = () =>{
     let [responseObj, setResponseObj] = useState({});
@@ -22,7 +22,7 @@ const Movie = () =>{
         <div className='container'>
             <h1>Get Movie</h1>
             {/*<div><pre>{JSON.stringify(responseObj, null, 2)}</pre></div>}*/}
-            <Movie_Data responseObj={responseObj}/>
+            <MovieData responseObj={responseObj}/>
             <form onSubmit={getMovie}>
                 <input type='text' placeholder='Enter Movie' value={movie_title} onChange={(e) => setTitle(e.target.value)}/>
                 <button type='submit'>Get Movie</button>

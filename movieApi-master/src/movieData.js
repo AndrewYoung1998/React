@@ -1,13 +1,13 @@
 import React from "react";
 import './MovieStyle.css';
-const Movie_Data = (props) => {
+const MovieData = (props) => {
     return(
         <div className='content'>
-            {props.responseObj.Response == "True" ?
+            {props.responseObj.Response === "True" ?
                 <div className='row'>
                     <div className='first-half'>
                         <p>
-                            <img src={props.responseObj.Poster}/>
+                            <img src={props.responseObj.Poster} alt={props.responseObj.Title}/>
                         </p>
                     </div>
                     <div className='second-half'>
@@ -42,4 +42,4 @@ const Movie_Data = (props) => {
         </div>
     )
 }
-export default Movie_Data;
+export default MovieData;
