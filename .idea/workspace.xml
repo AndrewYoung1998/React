@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12426397-edc1-4194-b375-4b3bd332b552" name="Default Changelist" comment="Vehicle Color Changer">
-      <change afterPath="$PROJECT_DIR$/weatherAPI-master/src/Forecast.js" afterDir="false" />
+    <list default="true" id="12426397-edc1-4194-b375-4b3bd332b552" name="Default Changelist" comment="Weather App">
+      <change afterPath="$PROJECT_DIR$/iss-tracker/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iss-tracker/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iss-tracker/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iss-tracker/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iss-tracker/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iss-tracker/public/iss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iss-tracker/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iss-tracker/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iss-tracker/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iss-tracker/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iss-tracker/src/Map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iss-tracker/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iss-tracker/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weatherAPI-master/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/weatherAPI-master/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weatherAPI-master/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weatherAPI-master/public/logo512.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608585268189</updated>
-      <workItem from="1608585270257" duration="5535000" />
+      <workItem from="1608585270257" duration="6778000" />
     </task>
     <task id="LOCAL-00001" summary="React Projects">
       <created>1608585441756</created>
@@ -123,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608590661784</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Weather App">
+      <created>1608590964159</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608590964159</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +156,7 @@
     <MESSAGE value="React Basics" />
     <MESSAGE value="Spotify Player" />
     <MESSAGE value="Vehicle Color Changer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vehicle Color Changer" />
+    <MESSAGE value="Weather App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Weather App" />
   </component>
 </project>
