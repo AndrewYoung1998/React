@@ -1,0 +1,59 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    margin-left: 14rem;
+    margin-right: 14rem;
+    padding: 3rem;
+    box-shadow: inset 0px 2px 14px 4px;
+    border-radius:25px
+}
+.first-half{
+    width:50%;
+}
+.second-half{
+    text-align: right;
+    width: 50%;
+}
+p img{
+    border-radius: 6px;
+    box-shadow: 1px 1px 12px;
+}
+p.title strong{
+    font-size: 42px;
+}
+p.rating strong{
+    font-size: 24px;
+    font-weight: 500;
+}
+p.plot strong{
+    font-size: 18px;
+    font-weight: 400;
+}
+form{
+    margin-top: 3rem;
+    display: flex;
+    flex-direction:column;
+    width:25%;
+    align-self: center;}
+form input{
+    padding:5px;
+    font-size:16px;
+}
+form button{
+    width: 35%;
+    padding: .5rem 1rem;
+    margin: 1rem 0;
+    align-self: center;
+    border-radius: 7px;
+    border: 0;
+    box-shadow: 0px 0px 2px 1px;
+}
+form button:focus{
+    outline: none;
+}
