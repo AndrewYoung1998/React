@@ -36,7 +36,7 @@ class Map extends React.Component{
         return(
             <div className = "map" style={{ height: '100vh', width: '100vw' }}>
                 <GoogleMapReact className = "map"
-                                bootstrapURLKeys={{key:"AIzaSyCLOXOzLoo3XYUAaO10XxtKNQTrb8N2wT8" }}
+                                bootstrapURLKeys={{key:"enter google map API key here" }}
                                 center={this.state.center}
                                 zoom={this.state.zoom}
                 >
