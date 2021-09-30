@@ -1,5 +1,6 @@
 import React from "react";
-import CarImage from "./car.png"
+import CarImage from "./car.png";
+
 
 class Car extends React.Component{
     constructor(props) {
@@ -10,13 +11,22 @@ class Car extends React.Component{
         this.setState({ changeColor: color });
     }
     render() {
+        const container = {
+            display:'flex',
+            flexDirection:'column',
+            width:'750px',
+            justifyContent:'center'
+        };
         return(
-            <div style={{backgroundColor: this.state.changeColor}}>
-                <img src={CarImage} alt=''></img>
-                <br></br>
+            <div style={container}>
+                <img src={CarImage} alt='Car' style={{height:'150px', width:'750px',backgroundColor: this.state.changeColor}}/>
+                <br/>
                 <button type="button" onClick={ () => this.changeColor('yellow')}>Yellow</button>
+                <br/>
                 <button type="button" onClick={ () => this.changeColor('blue')}>Blue</button>
+                <br/>
                 <button type="button" onClick={ () => this.changeColor('green')}>Green</button>
+                <br/>
                 <button type="button" onClick={ () => this.changeColor('orange')}>Orange</button>
             </div>
         );
