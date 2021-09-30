@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12426397-edc1-4194-b375-4b3bd332b552" name="Default Changelist" comment="Fixed image error. Modified README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iss-tracker/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/iss-tracker/README.md" afterDir="false" />
+    <list default="true" id="12426397-edc1-4194-b375-4b3bd332b552" name="Default Changelist" comment="Modified README.md">
+      <change beforePath="$PROJECT_DIR$/movieAutoSuggest-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/movieAutoSuggest-master/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <workItem from="1608585270257" duration="7353000" />
       <workItem from="1609807106454" duration="103000" />
       <workItem from="1632571407888" duration="1371000" />
-      <workItem from="1632967383061" duration="2384000" />
+      <workItem from="1632967383061" duration="2598000" />
     </task>
     <task id="LOCAL-00001" summary="React Projects">
       <created>1608585441756</created>
@@ -176,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632969413569</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Modified README.md">
+      <created>1632969805428</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1632969805428</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +217,7 @@
     <MESSAGE value="Fixed README.md" />
     <MESSAGE value="Fixed README.md and added another color to state" />
     <MESSAGE value="Fixed image error. Modified README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed image error. Modified README.md" />
+    <MESSAGE value="Modified README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified README.md" />
   </component>
 </project>
