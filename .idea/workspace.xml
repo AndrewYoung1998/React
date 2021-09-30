@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12426397-edc1-4194-b375-4b3bd332b552" name="Default Changelist" comment="Modified README.md">
-      <change beforePath="$PROJECT_DIR$/movieAutoSuggest-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/movieAutoSuggest-master/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spotifyAPI-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/spotifyAPI-master/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <workItem from="1608585270257" duration="7353000" />
       <workItem from="1609807106454" duration="103000" />
       <workItem from="1632571407888" duration="1371000" />
-      <workItem from="1632967383061" duration="2598000" />
+      <workItem from="1632967383061" duration="2959000" />
     </task>
     <task id="LOCAL-00001" summary="React Projects">
       <created>1608585441756</created>
@@ -182,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632969805428</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Modified README.md">
+      <created>1632970027977</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1632970027977</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
