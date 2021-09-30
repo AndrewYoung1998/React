@@ -8,9 +8,12 @@ class FavoriteColor extends React.Component{
         }
     }
     componentDidMount() {
-        setTimeout(() => {
+        this.color = setTimeout(() => {
             this.setState({favoriteColor:"green"})
         },5000)
+        setTimeout(()=>{
+            this.setState({favoriteColor:'blue'})
+        },10000)
     }
 
     render(){
