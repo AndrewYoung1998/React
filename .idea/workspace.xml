@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12426397-edc1-4194-b375-4b3bd332b552" name="Default Changelist" comment="iss tracker app">
-      <change afterPath="$PROJECT_DIR$/vehicle-master/src/car.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicle-master/src/Car.js" beforeDir="false" afterPath="$PROJECT_DIR$/vehicle-master/src/Car.js" afterDir="false" />
+    <list default="true" id="12426397-edc1-4194-b375-4b3bd332b552" name="Default Changelist" comment="added Car.png">
+      <change beforePath="$PROJECT_DIR$/movieApi-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/movieApi-master/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +54,7 @@
       <workItem from="1608585270257" duration="7353000" />
       <workItem from="1609807106454" duration="103000" />
       <workItem from="1632571407888" duration="1371000" />
+      <workItem from="1632967383061" duration="448000" />
     </task>
     <task id="LOCAL-00001" summary="React Projects">
       <created>1608585441756</created>
@@ -149,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608592681546</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added Car.png">
+      <created>1632967452467</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1632967452467</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +170,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -179,6 +185,7 @@
     <MESSAGE value="Vehicle Color Changer" />
     <MESSAGE value="Weather App" />
     <MESSAGE value="iss tracker app" />
-    <option name="LAST_COMMIT_MESSAGE" value="iss tracker app" />
+    <MESSAGE value="added Car.png" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Car.png" />
   </component>
 </project>
