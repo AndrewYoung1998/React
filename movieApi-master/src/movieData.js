@@ -21,11 +21,6 @@ const MovieData = (props) => {
                                 {props.responseObj.Released}
                             </strong>
                         </p>
-                        <p className='rating'>
-                            <strong>
-                                Rating: {props.responseObj.Ratings[1].Value}
-                            </strong>
-                        </p>
                         <p className='plot'>
                             <strong>
                                 {props.responseObj.Plot}
